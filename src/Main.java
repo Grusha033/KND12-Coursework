@@ -5,7 +5,7 @@ import view.console.components.ConsoleView;
 public class Main {
     public static void main(String[] args)
     {
-        String filePath = "/data/todos.txt";
+        String filePath = "resources/data/todos.txt";
         FileTaskRepository taskRepository = new FileTaskRepository(filePath);
 
         Todos todos = new Todos(taskRepository.loadTasks());

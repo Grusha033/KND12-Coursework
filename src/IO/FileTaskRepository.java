@@ -17,7 +17,7 @@ public class FileTaskRepository implements TaskRepository
 
     public FileTaskRepository(String filePath)
     {
-        this.file = new File(getClass().getResource(filePath).getPath());
+        this.file = new File(filePath);
     }
 
     @Override
