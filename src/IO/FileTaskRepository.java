@@ -1,6 +1,6 @@
 package IO;
 
-import schemas.Task;
+import model.Task;
 
 import java.io.File;
 import java.io.FileNotFoundException;

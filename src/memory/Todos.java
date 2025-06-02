@@ -1,9 +1,7 @@
-package model;
+package memory;
 
-import schemas.Task;
-import sorting.SortByDataNewest;
+import model.Task;
 import sorting.SortType;
-import sorting.Sorting;
 
 import java.util.ArrayList;
 import java.util.Comparator;

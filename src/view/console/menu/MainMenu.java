@@ -1,6 +1,6 @@
 package view.console.menu;
 
-import model.Todos;
+import memory.Todos;
 import view.console.commands.MenuCommand;
 import view.console.commands.SwitchScreenCommand;
 import view.console.components.ConsoleInput;

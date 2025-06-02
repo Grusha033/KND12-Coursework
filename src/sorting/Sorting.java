@@ -1,6 +1,6 @@
 package sorting;
 
-import model.Todos;
+import memory.Todos;
 
 import java.util.HashMap;
 import java.util.Map;

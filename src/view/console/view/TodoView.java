@@ -1,7 +1,7 @@
 package view.console.view;
 
-import model.Todos;
-import schemas.Task;
+import memory.Todos;
+import model.Task;
 
 import java.util.ArrayList;
 

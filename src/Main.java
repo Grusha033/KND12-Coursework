@@ -1,5 +1,5 @@
 import IO.FileTaskRepository;
-import model.Todos;
+import memory.Todos;
 import view.console.components.ConsoleView;
 
 public class Main {

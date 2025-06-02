@@ -1,6 +1,6 @@
 package view.console.components;
 
-import model.Todos;
+import memory.Todos;
 import view.console.menu.MainMenu;
 import view.console.view.TodoView;
 
@@ -32,6 +32,6 @@ public class ConsoleView
 
     public static void clearConsole()
     {
-        System.out.print("\n".repeat(200));
+        System.out.print("\n".repeat(70));
     }
 }

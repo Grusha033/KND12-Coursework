@@ -1,6 +1,6 @@
 package view.console.menu;
 
-import model.Todos;
+import memory.Todos;
 import sorting.Sorting;
 import view.console.commands.ActionCommand;
 import view.console.commands.MenuCommand;

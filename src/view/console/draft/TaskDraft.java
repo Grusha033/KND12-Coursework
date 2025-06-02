@@ -1,6 +1,6 @@
 package view.console.draft;
 
-import schemas.Task;
+import model.Task;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

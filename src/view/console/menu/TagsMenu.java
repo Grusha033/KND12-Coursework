@@ -1,7 +1,7 @@
 package view.console.menu;
 
-import model.Todos;
-import schemas.Task;
+import memory.Todos;
+import model.Task;
 import view.console.commands.ActionCommand;
 import view.console.commands.MenuCommand;
 import view.console.commands.SwitchScreenCommand;
